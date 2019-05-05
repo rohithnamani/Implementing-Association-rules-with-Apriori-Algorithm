@@ -1,0 +1,1 @@
+Used market basket analysis on the Instacart dataset and implement the Apriori algorithm on that to calculate support, confidence and lift and to generate the recommendations from the user’s transactions.  
